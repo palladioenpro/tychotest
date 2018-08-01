@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Automatic-Module-Name: toolbar
 Bundle-SymbolicName: toolbar;singleton:=true
 Bundle-Name: Toolbar
-Bundle-Version: 1.0.0.201808010914
+Bundle-Version: 1.0.0.201808011007
 Require-Bundle: javax.inject,org.eclipse.osgi,org.eclipse.jface,org.ec
  lipse.e4.ui.services,org.eclipse.e4.core.di.annotations,org.eclipse.e
  mf.ecore.xmi,org.eclipse.emf.ecore,org.palladiosimulator.simulizar.ed

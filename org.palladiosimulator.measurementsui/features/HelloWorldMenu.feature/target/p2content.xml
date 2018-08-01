@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <units size='2'>
-  <unit id='HelloWorldMenu.feature.feature.group' version='1.0.0.201808010914' singleton='false'>
-    <update id='HelloWorldMenu.feature.feature.group' range='[0.0.0,1.0.0.201808010914)' severity='0'/>
+  <unit id='HelloWorldMenu.feature.feature.group' version='1.0.0.201808011007' singleton='false'>
+    <update id='HelloWorldMenu.feature.feature.group' range='[0.0.0,1.0.0.201808011007)' severity='0'/>
     <properties size='7'>
       <property name='org.eclipse.equinox.p2.name' value='Feature'/>
       <property name='org.eclipse.equinox.p2.description' value='[Enter Feature Description here.]'/>
@@ -12,7 +12,7 @@
       <property name='maven-version' value='1.0.0-SNAPSHOT'/>
     </properties>
     <provides size='1'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu.feature.feature.group' version='1.0.0.201808010914'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu.feature.feature.group' version='1.0.0.201808011007'/>
     </provides>
     <requires size='16'>
       <required namespace='org.eclipse.equinox.p2.iu' name='org.palladiosimulator.simulizar.feature.feature.group' range='[2.1.0.201711211534-8h_SEFbcPueBA312721262539,2.1.0.201711211534-8h_SEFbcPueBA312721262539]'/>
@@ -29,8 +29,8 @@
       <required namespace='org.eclipse.equinox.p2.iu' name='org.palladiosimulator.pcm' range='4.1.0'/>
       <required namespace='org.eclipse.equinox.p2.iu' name='org.palladiosimulator.monitorrepository' range='0.0.0'/>
       <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.sirius' range='5.1.1'/>
-      <required namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu' range='[0.0.1.201808010914,0.0.1.201808010914]'/>
-      <required namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu.feature.feature.jar' range='[1.0.0.201808010914,1.0.0.201808010914]'>
+      <required namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu' range='[0.0.1.201808011007,0.0.1.201808011007]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu.feature.feature.jar' range='[1.0.0.201808011007,1.0.0.201808011007]'>
         <filter>
           (org.eclipse.update.install.features=true)
         </filter>
@@ -46,7 +46,7 @@
       [Enter Copyright Description here.]
     </copyright>
   </unit>
-  <unit id='HelloWorldMenu.feature.feature.jar' version='1.0.0.201808010914'>
+  <unit id='HelloWorldMenu.feature.feature.jar' version='1.0.0.201808011007'>
     <properties size='7'>
       <property name='org.eclipse.equinox.p2.name' value='Feature'/>
       <property name='org.eclipse.equinox.p2.description' value='[Enter Feature Description here.]'/>
@@ -57,15 +57,15 @@
       <property name='maven-version' value='1.0.0-SNAPSHOT'/>
     </properties>
     <provides size='3'>
-      <provided namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu.feature.feature.jar' version='1.0.0.201808010914'/>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='HelloWorldMenu.feature.feature.jar' version='1.0.0.201808011007'/>
       <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
-      <provided namespace='org.eclipse.update.feature' name='HelloWorldMenu.feature' version='1.0.0.201808010914'/>
+      <provided namespace='org.eclipse.update.feature' name='HelloWorldMenu.feature' version='1.0.0.201808011007'/>
     </provides>
     <filter>
       (org.eclipse.update.install.features=true)
     </filter>
     <artifacts size='1'>
-      <artifact classifier='org.eclipse.update.feature' id='HelloWorldMenu.feature' version='1.0.0.201808010914'/>
+      <artifact classifier='org.eclipse.update.feature' id='HelloWorldMenu.feature' version='1.0.0.201808011007'/>
     </artifacts>
     <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
     <touchpointData size='1'>

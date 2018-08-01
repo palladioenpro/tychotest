@@ -3,5 +3,5 @@ projectKey=org.palladiosimulator:org.palladiosimulator.measurementsui.root
 serverUrl=https://sonarcloud.io
 serverVersion=7.3.0.15129
 dashboardUrl=https://sonarcloud.io/dashboard?id=org.palladiosimulator%3Aorg.palladiosimulator.measurementsui.root
-ceTaskId=AWT0xVCu8jHLMyTQVMsc
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWT0xVCu8jHLMyTQVMsc
+ceTaskId=AWT09lxWRTUlNlMjxvBG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWT09lxWRTUlNlMjxvBG

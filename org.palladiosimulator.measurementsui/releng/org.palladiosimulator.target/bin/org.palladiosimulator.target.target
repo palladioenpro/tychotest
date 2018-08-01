@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?pde version="3.8"?><target name="Running Platform" sequenceNumber="14">
+<?pde version="3.8"?><target name="Running Platform" sequenceNumber="16">
 <locations>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 <unit id="de.uka.ipd.sdq.dialogs.feature.feature.group" version="1.4.0.201611171324"/>
@@ -106,6 +106,19 @@
 <unit id="org.eclipse.jdt.feature.group" version="3.13.4.v20180330-0919"/>
 <unit id="org.eclipse.rcp.sdk.id" version="4.7.3.M20180330-0640"/>
 <repository location="http://download.eclipse.org/releases/oxygen"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.eclemma.feature.feature.group" version="3.1.0.201804041601"/>
+<unit id="org.eclipse.swtbot.eclipse.feature.group" version="2.6.0.201706141832"/>
+<unit id="org.eclipse.swtbot.eclipse.gef.feature.group" version="2.6.0.201706141832"/>
+<unit id="org.eclipse.swtbot.feature.group" version="2.6.0.201706141832"/>
+<unit id="org.eclipse.swtbot.ide.feature.group" version="2.6.0.201706141832"/>
+<repository location="http://download.eclipse.org/releases/oxygen"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.junit" version="4.12.0.v201504281640"/>
+<unit id="org.junit.source" version="4.12.0.v201504281640"/>
+<repository location="http://download.eclipse.org/tools/orbit/downloads/drops/R20180606145124/repository"/>
 </location>
 </locations>
 <environment>

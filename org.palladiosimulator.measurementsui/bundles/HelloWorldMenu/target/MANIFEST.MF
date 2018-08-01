@@ -3,7 +3,7 @@ Automatic-Module-Name: HelloWorldMenu
 Bundle-SymbolicName: HelloWorldMenu;singleton:=true
 Export-Package: helloworldmenu.handlers
 Bundle-Name: HelloWorldMenu
-Bundle-Version: 0.0.1.201808010914
+Bundle-Version: 0.0.1.201808011007
 Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.co
  re.resources,org.palladiosimulator.simulizar.measuringpoint.create,or
  g.eclipse.emf.ecore,org.palladiosimulator.edp2,de.uka.ipd.sdq.workflo

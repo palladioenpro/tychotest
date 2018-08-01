@@ -2,7 +2,7 @@
 <feature
       id="HelloWorldMenu.feature"
       label="Feature"
-      version="1.0.0.201808010914"
+      version="1.0.0.201808011007"
       plugin="HelloWorldMenu">
 
    <description url="http://www.example.com/description">
@@ -41,7 +41,7 @@
          id="HelloWorldMenu"
          download-size="7"
          install-size="11"
-         version="0.0.1.201808010914"
+         version="0.0.1.201808011007"
          unpack="false"/>
 
 </feature>
