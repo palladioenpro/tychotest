@@ -314,7 +314,7 @@ public class SampleHandler extends AbstractHandler {
 		return null;
 	}
 	public static int test(String test) {
-		if (test.equals("test3")) {
+		if (test.equals("test4")) {
 			return 1;
 		}
 		return 0;
