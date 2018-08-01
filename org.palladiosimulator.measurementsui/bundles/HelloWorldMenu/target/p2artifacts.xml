@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='HelloWorldMenu' version='0.0.1.201808010737'>
+  <artifact classifier='osgi.bundle' id='HelloWorldMenu' version='0.0.1.201808010914'>
     <properties size='5'>
-      <property name='artifact.size' value='7256'/>
-      <property name='download.size' value='7256'/>
+      <property name='artifact.size' value='7363'/>
+      <property name='download.size' value='7363'/>
       <property name='maven-groupId' value='org.palladiosimulator'/>
       <property name='maven-artifactId' value='HelloWorldMenu'/>
       <property name='maven-version' value='0.0.1-SNAPSHOT'/>

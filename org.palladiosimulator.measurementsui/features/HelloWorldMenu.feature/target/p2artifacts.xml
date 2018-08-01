@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='org.eclipse.update.feature' id='HelloWorldMenu.feature' version='1.0.0.201808010737'>
+  <artifact classifier='org.eclipse.update.feature' id='HelloWorldMenu.feature' version='1.0.0.201808010914'>
     <properties size='6'>
-      <property name='artifact.size' value='1018'/>
-      <property name='download.size' value='1018'/>
+      <property name='artifact.size' value='1017'/>
+      <property name='download.size' value='1017'/>
       <property name='maven-groupId' value='org.palladiosimulator'/>
       <property name='maven-artifactId' value='HelloWorldMenu.feature'/>
       <property name='maven-version' value='1.0.0-SNAPSHOT'/>
